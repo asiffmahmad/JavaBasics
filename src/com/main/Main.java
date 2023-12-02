@@ -1,4 +1,4 @@
-package com.asd;
+package com.main;
 
 public class Main {
 
