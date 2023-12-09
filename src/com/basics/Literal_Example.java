@@ -6,7 +6,7 @@ package com.basics;
 /**
  * 
  */
-public class Lteral_Example {
+public class Literal_Example {
 	public static void main(String[] args) {
 		int a = 2;
 		int b = 4;
