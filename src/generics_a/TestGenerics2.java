@@ -1,4 +1,4 @@
-package generics;
+package generics_a;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -19,6 +19,7 @@ public class TestGenerics2 {
         System.out.println("Printing integer list");
         System.out.println("******************");
         data.printListData(list);
+        
         
         // Create a list of strings
         List<String> list2 = new ArrayList<>();

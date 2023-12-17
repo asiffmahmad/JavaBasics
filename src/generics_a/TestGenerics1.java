@@ -1,4 +1,4 @@
-package generics;
+package generics_a;
 
 import java.util.*;
 
