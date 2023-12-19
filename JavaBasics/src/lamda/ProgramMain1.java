@@ -6,6 +6,7 @@ public class ProgramMain1 {
 		LamdaInterfacce1 lamdaInterfacce1 = ()->{System.out.println("print lamda expression");};
 		
 		lamdaInterfacce1.demo();
+		lamdaInterfacce1.asd();
 	}
 
 }
